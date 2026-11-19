@@ -14,7 +14,7 @@ Add the following to your `claude_desktop_config.json` or `.cursor/mcp.json` (ge
 {
   "mcpServers": {
     "b2b-ecommerce-intelligence": {
-      "url": "[https://mcp.apify.com/?actors=](https://mcp.apify.com/?actors=)goku79/b2b-domain-intelligence-extractor,goku79/ats-jobs-hiring-signals-scraper,goku79/shopify-product-pricing-inventory-scraper",
+      "url": "https://mcp.apify.com/?actors=goku79/b2b-domain-intelligence-extractor,goku79/ats-jobs-hiring-signals-scraper,goku79/shopify-product-pricing-inventory-scraper,goku79/app-store-play-store-intelligence-scraper,goku79/github-repo-contributor-intelligence-scraper",
       "headers": {
         "Authorization": "Bearer YOUR_APIFY_API_TOKEN"
       }
